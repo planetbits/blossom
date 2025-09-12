@@ -1,0 +1,34 @@
+{
+  "license": {
+    "version": "1.0",
+    "licenseId": "efc3b178-9459-4aec-9415-53b8f8f662ed",
+    "license_id": 1,
+    "licensedTo": "KrishiVyavasthapan (Pradip)",
+    "client_code": "CL-2025-003",
+    "contactEmail": "KrishiVyavasthapan@gmail.com",
+    "licenseType": "node-locked",
+    "subscription_tier": "standard",
+    "rollout_phase": "production",
+    "product": "KrishiV",
+    "active_phases": [
+      "1",
+      "2"
+    ],
+    "features": [
+      "user_management",
+      "api_access",
+      "export_data"
+    ],
+    "issued": "2025-09-01",
+    "maintenanceExpiry": "2026-02-01",
+    "expiry": "2026-11-01",
+    "maxUsers": 2,
+    "maxDevices": 1,
+    "hwid": "{\"motherboard_serial\": \"VQ2MK5C85PW\", \"bios_serial\": \"R90JB294\", \"mac_address\": \"10:4A:7D:52:BC:27\", \"unique_id\": \"VQ2MK5C85PW\"}",
+    "hwid_enc": "vkB-MYyT5ocn9UoLYxEJNCbdXmqhS4CSET4k5PAQI6K_cojOw-b5ewXAQjkgTuQ_8nHDhKFm3XfXX9GxLA-Dfe-f7UoDoMQbk-c7X3ymPbzFYycji71qxzORMRFyR9bH6KkBzM02HPv0A_DY3qaI9nPUC5_kj53zZDjOi8j83Q6Sm29dwV-DAOfYynDFP6ui0oT9eXAQM97qSPLK",
+    "protected": "hi",
+    "protected_enc": "pNn7hTlM_3gLXpmPyQKZozNCrsGpF48JwPRsyKoZ",
+    "license_note": "lic notes"
+  },
+  "signature": "MGUCMHuVpwohT2xuCTDzHq8FBwtAC1Lh192vk8h2xYGPG8KT/iyMo1MwT/F8+/nRlVLLswIxAIenaE2yW1ZARgUthwJS4J89wEo4s1D7me3WkqelugkvaF7MqnnpyI2y9hKm2kpBkQ=="
+}
