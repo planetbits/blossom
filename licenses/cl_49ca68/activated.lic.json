@@ -9,7 +9,7 @@
     "licenseType": "node-locked",
     "subscription_tier": "standard",
     "rollout_phase": "production",
-    "product": "KrishiV",
+    "product": "Krishi Vyavasthapan",
     "active_phases": [
       "1",
       "2"
@@ -24,11 +24,8 @@
     "expiry": "2026-11-01",
     "maxUsers": 2,
     "maxDevices": 1,
-    "hwid": "{\"motherboard_serial\": \"VQ2MK5C85PW\", \"bios_serial\": \"R90JB294\", \"mac_address\": \"10:4A:7D:52:BC:27\", \"unique_id\": \"VQ2MK5C85PW\"}",
     "hwid_enc": "vkB-MYyT5ocn9UoLYxEJNCbdXmqhS4CSET4k5PAQI6K_cojOw-b5ewXAQjkgTuQ_8nHDhKFm3XfXX9GxLA-Dfe-f7UoDoMQbk-c7X3ymPbzFYycji71qxzORMRFyR9bH6KkBzM02HPv0A_DY3qaI9nPUC5_kj53zZDjOi8j83Q6Sm29dwV-DAOfYynDFP6ui0oT9eXAQM97qSPLK",
-    "protected": "hi",
-    "protected_enc": "pNn7hTlM_3gLXpmPyQKZozNCrsGpF48JwPRsyKoZ",
-    "license_note": "lic notes"
+    "protected_enc": "FsT_dgqtZQmvdH5p_JwwrVw57zlk6uM50IjpLnrhCPav5n0QvJD3jgy0wRuJ8n9UmfsbgVF5ELSdHC00rdE-QLd5gn2smoe4XnrLFcsuRP9xEiQFkBdFjI0l3z8o-QkdfSWzYox4vdygxtmWPawtCUefQK_w8vnY6GtGjRiB6y1GcShaNm8l78ASTHbkvgRwWm_bJ9SHhMQwJcweQK24EhMQ06LQOpqQSiHPZxNFHaq9GgMjmWiUAFwkYGKJJYJf9V28TnLn0ocMY6_N-SRBcjsRD9o-7yN66xXsEvqNvt_3IQEkCBziMhQVHmUdJHShG7aq1Q0XBtulwJFC0kapaLht8ik2PXickXoLzevlSWUBW4KTOSedYVhb6k24TLft3tGmC_yXhz0cEvy_v1Um-ncY5A9MvLCj1lhupKNYaUHUrM9RugR-VNbMk6MSUiffpcV0DKuI7801LJz-t-fpLliPOwvU8i7s9YYZC_6f0ZDW122e1j7BkNDXcgSvkMYT71yVlacJ8FvpP2zjQTvJhj7BYXJZij72Njq3owsYh5iM"
   },
-  "signature": "MGYCMQD0OpeaoIaOr9X/aJt+ci76Lm7pcTmsOYJC3LpsXyDptIcSdhspBVrEpJJTztaLc7ICMQDHVsT8SlQ1AVIMRUDvnrbQMpSehDqRp2pA2rRCXUtldafCRAO3BrWYBaXsm+ctLeE="
+  "signature": "MGUCMDNPA3gmYaYoT0NZjTDrlqIys5IvvenJXQvbcJs6P0JdWOTlZWxMtEUmjaF/lBkDhAIxANqNB+b+za34lvsL/MuwlWkUmEPbYY9wvCtzcqgdh5PeXI3ZqroGwWPHc3LEI3d3aA=="
 }
