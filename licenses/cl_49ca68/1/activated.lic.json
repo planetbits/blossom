@@ -24,11 +24,8 @@
     "expiry": "2026-11-01",
     "maxUsers": 2,
     "maxDevices": 1,
-    "hwid": "{\"motherboard_serial\": \"VQ2MK5C85PW\", \"bios_serial\": \"R90JB294\", \"mac_address\": \"10:4A:7D:52:BC:27\", \"unique_id\": \"VQ2MK5C85PW\"}",
     "hwid_enc": "vkB-MYyT5ocn9UoLYxEJNCbdXmqhS4CSET4k5PAQI6K_cojOw-b5ewXAQjkgTuQ_8nHDhKFm3XfXX9GxLA-Dfe-f7UoDoMQbk-c7X3ymPbzFYycji71qxzORMRFyR9bH6KkBzM02HPv0A_DY3qaI9nPUC5_kj53zZDjOi8j83Q6Sm29dwV-DAOfYynDFP6ui0oT9eXAQM97qSPLK",
-    "protected": "hi",
-    "protected_enc": "pNn7hTlM_3gLXpmPyQKZozNCrsGpF48JwPRsyKoZ",
-    "license_note": "lic notes"
+    "protected_enc": "rJzqcDHN3hWxhKqvmGITNUfn6vvh6HdIw9_KSh9-NjzxW1WDC8oujCKWf8kxX0JD-wGzGQAymMrYjMv-PJu9VaPSqnwoh09JW7-Mjf5yqp5z_Xg3NNtIrb9FgpK4EIs8PpTe199icxyfOyd9l89XuaytPRl8tD1bVNgTBr4gzPsRhvil5OEkFbWKZdrDnpO7WLt-SAfYDLk2AKsf8fXTZyaqfCI-cxhsoU1DATmCFqjtcKVfi_Q0USK9Bam-QpIBJ5tqD3qwy_NVPcyScK1cHMn7Pd-xefKedmUygwWbCe140bJbwd16U_WrhDIgzmTluaX3ZXMpbXEnpPvenV3Cht81AJu0a9NWmpK0A__K4tWUs8TXrBmawB61-mYxCh4ZrwY0tQXVZLyRFyUF2i9r5sI9y0UQBaay6wgwBcUybGeyXJbDpCuqE-3chpMubqHKeBxHOouDzttG1rhhGrEQpWwVwKnHYNwmDT0o6DnkGN46cSwtpm26mDrZFWIPZsxx3HgZtSk0HjYcYkGQSeIbga1tqRnfuXpdeVW9MloYnbgB"
   },
-  "signature": "MGYCMQD0OpeaoIaOr9X/aJt+ci76Lm7pcTmsOYJC3LpsXyDptIcSdhspBVrEpJJTztaLc7ICMQDHVsT8SlQ1AVIMRUDvnrbQMpSehDqRp2pA2rRCXUtldafCRAO3BrWYBaXsm+ctLeE="
+  "signature": "MGUCMF3t1QX6H6csEIMSlYMTiAm/g+CMDrpYHrWKNCnckkhyeNcEsmgOMzmNokRKgRZuFwIxAK5lTRTNzcn8AaUNKJZ512C+H28IkMOLlUJX2GOPD96SDflVIyQ+sTLs8JHTNyG3Pg=="
 }
