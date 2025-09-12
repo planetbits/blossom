@@ -7,6 +7,7 @@
     "client_code": "CL-2025-003",
     "contactEmail": "KrishiVyavasthapan@gmail.com",
     "licenseType": "node-locked",
+    "app_name": "krishibits",
     "subscription_tier": "standard",
     "rollout_phase": "production",
     "product": "Krishi Vyavasthapan",
@@ -25,7 +26,7 @@
     "maxUsers": 2,
     "maxDevices": 1,
     "hwid_enc": "vkB-MYyT5ocn9UoLYxEJNCbdXmqhS4CSET4k5PAQI6K_cojOw-b5ewXAQjkgTuQ_8nHDhKFm3XfXX9GxLA-Dfe-f7UoDoMQbk-c7X3ymPbzFYycji71qxzORMRFyR9bH6KkBzM02HPv0A_DY3qaI9nPUC5_kj53zZDjOi8j83Q6Sm29dwV-DAOfYynDFP6ui0oT9eXAQM97qSPLK",
-    "protected_enc": "FsT_dgqtZQmvdH5p_JwwrVw57zlk6uM50IjpLnrhCPav5n0QvJD3jgy0wRuJ8n9UmfsbgVF5ELSdHC00rdE-QLd5gn2smoe4XnrLFcsuRP9xEiQFkBdFjI0l3z8o-QkdfSWzYox4vdygxtmWPawtCUefQK_w8vnY6GtGjRiB6y1GcShaNm8l78ASTHbkvgRwWm_bJ9SHhMQwJcweQK24EhMQ06LQOpqQSiHPZxNFHaq9GgMjmWiUAFwkYGKJJYJf9V28TnLn0ocMY6_N-SRBcjsRD9o-7yN66xXsEvqNvt_3IQEkCBziMhQVHmUdJHShG7aq1Q0XBtulwJFC0kapaLht8ik2PXickXoLzevlSWUBW4KTOSedYVhb6k24TLft3tGmC_yXhz0cEvy_v1Um-ncY5A9MvLCj1lhupKNYaUHUrM9RugR-VNbMk6MSUiffpcV0DKuI7801LJz-t-fpLliPOwvU8i7s9YYZC_6f0ZDW122e1j7BkNDXcgSvkMYT71yVlacJ8FvpP2zjQTvJhj7BYXJZij72Njq3owsYh5iM"
+    "protected_enc": "t7EplWUr7Qnya-3cu583-wha8Miw7jG32LSoQnzCrwbodj4WUftzXn9bnXaQBHDKosrhyL2lYmoRt6jfEM4oaUb1f4wQ3_heC-pyqZpXNr6JDTOXNC2AaiQIugwoJgAX1hGz12n7txIcJDn2G-_kSGjiyMm5iQGW55i4dah8Y46T4pkFef79m79ilOC14qtmIk3obaeDwOTlvTJhmXa6nl3CspVabYHVdXVgRQlY_FId7AjE00MoI9wSZgeo7eueDldOMnUO_62z5yQqoWv2vmTNo_oqUWPtYBGV4WCbOERQ7AZKurePPD1syCMEOwWgA2NlGh3D00VX2OvPTGGng0FFXOrafzX3P7-e0doQdZR6nukN-riTRMWiwhoGcWgiUVXGUckGuYjzTTIy4sj0Zs70YfRcyTJZ17cyfPru43zyoPkfC_lzgjUpBP6uYAEtlb-183-fiVTdK7nvvJCKEZw9MtRknLJ0jGhUg1-WphR6xu1Qgp49Ds9f3TUX4rSw2O5Tncj1dXSgAaOsQgA4eD0IMMqpysXWkMujxQHAZSefEP1IRuq3JLgOapmRzIYUqVRzD3o1klKuaOs="
   },
-  "signature": "MGUCMDNPA3gmYaYoT0NZjTDrlqIys5IvvenJXQvbcJs6P0JdWOTlZWxMtEUmjaF/lBkDhAIxANqNB+b+za34lvsL/MuwlWkUmEPbYY9wvCtzcqgdh5PeXI3ZqroGwWPHc3LEI3d3aA=="
+  "signature": "MGQCMFo3xQwRoYFM54XbKWc4qSEUXmoqvT2xEgRwrjBFSHlrW2JjCtHpPW2s0QOrhV9dcAIwCxX7OVZ0ypQaO7ZxqvG5xBEtv32ASbtLEYp/+/ytfHuw6x7fj0dZoQVB/70vKNdG"
 }
