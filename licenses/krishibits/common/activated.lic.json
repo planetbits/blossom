@@ -1,0 +1,33 @@
+{
+  "license": {
+    "version": "1.0",
+    "licenseId": "ec30fc00-c25b-47cb-b27f-acad049889d8",
+    "license_id": 5,
+    "licensedTo": "Common (All)",
+    "client_code": "CL-2025-005",
+    "contactEmail": "Common@test.com",
+    "licenseType": "trial",
+    "app_name": "Krishibits",
+    "subscription_tier": "Standard",
+    "trial_period": "15",
+    "rollout_phase": "Production",
+    "product": "",
+    "active_phases": [
+      "1",
+      "2"
+    ],
+    "features": [
+      "user_management",
+      "api_access",
+      "export_data"
+    ],
+    "issued": "2025-09-17",
+    "maintenanceExpiry": "",
+    "expiry": "2026-01-05",
+    "maxUsers": 1,
+    "maxDevices": 1,
+    "hwid_enc": "",
+    "protected_enc": "I2LHsRHTGSayV8YEhDZZE3sAKmC03hm_00KL7ntMPjfbj4Ugou8BksS1vcd9pw9sbxFN77STb_hvgsb1pRttGC-y1CN-jmplJw0zhV8dMqcWZMarABLG_KRCnqSahgM2F2wBiPmrBSmiIe8yuKww6RRJP5G2lQkzhqGaLCLd5qC_R94QJbKtezpc6AS_OtTjBFjPcQe-W0jfkpygmEkYUKCLRbZUbh_JT-pbta3IPM6W3Ht6GRRUnrwkV2kt8ZWBGkH5pdIorT-puK7WwI93Bgai-TP1GNXYU0w28jRGTPhsbHz0FyTArRw1X8s_Pas2O-Rm_SYUXe3KpUzGd05tFuhf2l90dwdmRKiZ5u1s2mmyvjvHBxMWkIv9O-EQVVWtxsnmUvguvQi8i83i6MkkIg=="
+  },
+  "signature": "MGUCMQDxT27taRMGpHf66vlxUPzuuPxI7yBMfOAs7LpllaQwBWU8YeTUariB4Rf60lvwKsECMG5Q/1Z//FLAo+IdbeXuHSg6vT8gOA8SwNd7qNPxOC4alwPnkM7lYeF5PImwvBIFvQ=="
+}
