@@ -1,0 +1,35 @@
+{
+  "license": {
+    "version": "1.0",
+    "licenseId": "e2cb5db3-8178-445f-89f0-4235cced926f",
+    "license_id": 9,
+    "licensedTo": "Common (All)",
+    "client_code": "CL-2025-005",
+    "contactEmail": "Common@test.com",
+    "licenseType": "Trial",
+    "app_name": "Krishi Vyavasthapan",
+    "status": "Active",
+    "subscription_tier": "Standard",
+    "trial_period": "30",
+    "rollout_phase": "Production",
+    "product": "",
+    "active_phases": [
+      "1",
+      "2"
+    ],
+    "features": [
+      "User Management",
+      "Inventory",
+      "Billing",
+      "Settings"
+    ],
+    "issued": "2025-09-21",
+    "maintenanceExpiry": "2025-09-24",
+    "expiry": "2025-09-25",
+    "maxUsers": 1,
+    "maxDevices": 1,
+    "hwid_enc": "",
+    "protected_enc": "9ISDhHshUzs0NW_z_I8KsXR2eeJl5Hknm6gKQHEXE3B0jQxbB6sxkTo5NZymcaPCSR3kS8HeXg1HMnIk75s24oamdg5w1M5UMmJdp6bwS-Ww1BPxm2RLzRb5WQmVCub5k4RJteiAKfGwgnHqS3e3IH-xosr701LzF2bBWw9gcb_SmeO_RbiYUDA-XdGExcDFjx97spMdYOMiMQn2feyOl0Pc_HfoK0dN2Gu3A2HhIztD2r_jGleuYRvrVnoJQSCU8G2jUJ-9hJ1p5R3nClPEa9QRjJcHSu7wKz5BHEvvzat8caoUS98ANtJzqYmUPWSSd_dTqez7IAsu2LdSW9iZJhFiNwqiX45NI4bSw6syFaaOG1arsjHnpmt0zykHqLb2LkTomoP-iH5EkmT3XYesScoRbzSBWbzaUqYo32TjPFcw4S9iiCvq8htyJQDDuab-rdR8sA=="
+  },
+  "signature": "MGUCMQDYFvxgKj0JppX2hvzNN1iQ+a8OKmSGxduY8ZwTWkHGDgAh0HvnvLBdUdzFt//vm3ACMFCVf9aQlpPjKJdRMlSAix5QZZp2fFnKxi+gBtCjad3qe13m/cemlyrLQDROKJMYsg=="
+}

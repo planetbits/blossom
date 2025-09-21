@@ -1,0 +1,35 @@
+{
+  "license": {
+    "version": "1.0",
+    "licenseId": "63dbbd9b-88ea-4a60-a5c9-aa03d6fe8e8b",
+    "license_id": 7,
+    "licensedTo": "Common (All)",
+    "client_code": "CL-2025-005",
+    "contactEmail": "Common@test.com",
+    "licenseType": "Trial",
+    "app_name": "Blossom Server",
+    "status": "Active",
+    "subscription_tier": "Standard",
+    "trial_period": "15",
+    "rollout_phase": "Production",
+    "product": "",
+    "active_phases": [
+      "1",
+      "2"
+    ],
+    "features": [
+      "User Management",
+      "Inventory",
+      "Billing",
+      "Settings"
+    ],
+    "issued": "2025-09-19",
+    "maintenanceExpiry": "2025-11-30",
+    "expiry": "2025-12-31",
+    "maxUsers": 1,
+    "maxDevices": 1,
+    "hwid_enc": "",
+    "protected_enc": "Tnrx0wxbEfVaY1bQ6tHiAClrtuZvD8R1L5LSijsiyLDnqs1yzl9_CatJ-3vGm0oeoz6UO_fe1WYr5iBFbKkCYS3jTN1bBSxTYoiv_NsOF0xxuk982MR1KryDH96UYi4vY7ro2DgcQyG5zaw2lgTEtHI3rJwRQJvWwQ1sNzK42dBKRYm0wPh8yoDvH3hG-R4nIeT4iAbw9mzzMcjQKaYapkX0tJvpU9D8zqKyXunlalUNTAm1Q1xtHUp1UwVKR7Ll2Z_Uqp9ipj6uWcvQ23IKzMbnlCKTYVCXnjunngWBPN2D9-pbooPbPtpHPvBxssMSP6Mxw2BmcmCJ6GVtvD-pKFHgw-YhI30xXLJcbvbh0g5FB1idNLHkbQwkRLUcbU85We4KSermR1TxUHkrunyyvAm0cYWL2WX2xb9TxLaxaUtkcDac_Lu7y0Km4CWOcjw="
+  },
+  "signature": "MGQCMEwe3TPQpupM9mg2ltTpAyr3FbzJL1LICE7QUvw5GnqI53r8tvDhF0UC7T2k2upkBwIwK80WwPzbrrB0bZDHvyqBb8JrdaM1ldkOL5H75tUIK3/PB6U3hZPSQwAcgivp1PWl"
+}

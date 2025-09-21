@@ -1,0 +1,35 @@
+{
+  "license": {
+    "version": "1.0",
+    "licenseId": "c41d5e3b-358a-4bc3-9ab8-4882de818eae",
+    "license_id": 6,
+    "licensedTo": "Kalpaya (Pradip)",
+    "client_code": "CL-2025-003",
+    "contactEmail": "kalpaya@gmail.com",
+    "licenseType": "Node-Locked",
+    "app_name": "Blossom Server",
+    "status": "Active",
+    "subscription_tier": "Standard",
+    "trial_period": "0",
+    "rollout_phase": "Production",
+    "product": "",
+    "active_phases": [
+      "1",
+      "2"
+    ],
+    "features": [
+      "User Management",
+      "Inventory",
+      "Billing",
+      "Settings"
+    ],
+    "issued": "2025-09-01",
+    "maintenanceExpiry": "2025-09-25",
+    "expiry": "2025-09-30",
+    "maxUsers": 2,
+    "maxDevices": 1,
+    "hwid_enc": "Kzh42UP7NRsHkDKe0kg8Yk6vD5G7CzmbJ_0xHEKDzzwEYHbw3GJtAAT4U7Jf9FeMainTPra3r-BkDWgFynoPVmtFvafl00WI7OaTemV67bB4IQwDLY8YoBT0NAIqMwO_s55HeoLfptCGZWO1yRJkgewvLeZO7Dwuhg0b7DuqU3FT0DGWDw0fhEdBfbMoF120n9RzwrwwIj72OrXt",
+    "protected_enc": "Hh2iXLXGHdMEScYEqj6xArlwOtWuGHVECKv7uWbIHth1UJS5yXxWO8-woPzWMqY_d1F4OMmimKfQ5txUPn_D_LAsHw15G0f9-sVid7f9xZEKBaQeFYoFyC7P5XAUNbC8XvSK6eX_k9hupy7NMdT1XmqsPSW2XUe52bBs_bYkkzilLz2bYD2Ae0nY31BxPvXbhA_31AtQIUJ67fOTEfDJ_lag_oD1R1x11UAhLrOmI5fDqnh-gjiZQueHj8dvtPA3sS2xLZ3DzphvaksuEy786qRkAzkWJG8CSaRbAJZVrd1doAmgFqLs1r3nkteV4usyt-tF-K1AaIdw24L9FwAwmx5gA8MZCuF4tpI390f5SAACJ_O1GZGV1yXiC-KZ1zMGNvcZ1ZLivsvfdCz_T3sA5IUdIt7PbND11hqgoOet6ZDBHevnOUsyhF5tppWgKICTK4h7WeMw-pZlAmtoyWtBuc7Cun1onHGPJ9iki3bsh04USf5GIoJUNMAYYufuqDnobN26gT8VdOcdir4U3SHsNuQoU9X1fxZRKmCkbu8sL_gGTffjqBIK1UJzo8nGwZK-kY7bqeuZz2uPRlLP6zvfZQwzmqnTQi7QSkcSwDerC55q2MQekBUDYcZcx62I3G16CxqZJA=="
+  },
+  "signature": "MGUCMBO7J4af2IbAtxplMp83ksA3Z421D4wzJsWJ56/zTs7fCQ0AYwbmEGaNc4/+ws3/fQIxAOvk/5Qc/Q5AIy5hErZOdCJPpjYcWPfrNbJP9JcKrJ9oAOjDUMpyDbv01WErpPrNhw=="
+}
