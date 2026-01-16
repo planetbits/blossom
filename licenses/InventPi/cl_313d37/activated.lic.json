@@ -1,0 +1,40 @@
+{
+  "license": {
+    "version": "1.0",
+    "licenseId": "8ab9111e-7ded-40bd-af46-324d41450aca",
+    "license_id": 8,
+    "licensedTo": "Pocoyo (Pradip)",
+    "client_code": "CL-2025-003",
+    "contactEmail": "pocoyodream@gmail.com",
+    "licenseType": "Node-Locked",
+    "app_name": "InventPi",
+    "status": "Active",
+    "subscription_tier": "Standard",
+    "trial_period": "30",
+    "rollout_phase": "Production",
+    "product": "",
+    "product_version": "2.0",
+    "active_phases": [
+      "1",
+      "2"
+    ],
+    "features": [
+      "User Management",
+      "Inventory",
+      "Billing",
+      "Settings"
+    ],
+    "issued": "2026-01-01",
+    "maintenanceExpiry": "2026-01-14",
+    "expiry": "2026-01-31",
+    "grace_period": "0",
+    "renewed_on": "2025-12-31",
+    "renewed_count": 2,
+    "license_server_url": "https://raw.githubusercontent.com/planetbits/blossom/refs/heads/main/licenses",
+    "maxUsers": 2,
+    "maxDevices": 1,
+    "hwid_enc": "vVpHh2hnC3pkRaGXBbGNbHfyX1fzFdkToiNr4bF0bgMSBtmnMz02hcGD9hiAqHELke2aA1BIH0uO7Bp0A8Y59J5HwoOFsOPLB7ocu_Sggsi0WPIPWymLfSfL45wBepDE9jioVakcSGGKHcYakINGepJFSaXlg8geHyTwK6gMVNban5JB7X8CCgz-M42EweqVJqhsEL9AESSqGeZK",
+    "protected_enc": "bzLkOM4dQYFQF5r5NOMcJZ6O51HT1ya2tUb70ULdA90V-c2MKtdKV-W9BRQfzHlJCyBZHR5yY2PkM-E3g7qhqqOrUPuploJlphuugPQfu3G34jZGPK4n278_m1JL3I972nN2iARA4ReMUC6r-bndxghN9lGkTn4oWrY0o-l4FuwZlxgjz0RDSeGs0OyGM79ZrUtLLby4rc7EZujq0q5c4pUXxlup8CEjQe66-O9U4Q-bTMk-cDI_3HyCjRRHLExc7Zh80NEEZhpiqlStRu1wpzsBBMsoJ5bIF-G0clOGIJ_Jsy5hI5ACLDF84NpRn73enPTRtmq1IUpM6iNTm1NS9edgeY79Lr8O32vH0IxkUCVDxW_CXc4YjxpBxspoBNuKBZXI_B52_tyQTHL-eSieT_sZjcnKr8qdXZTNe_3a1Lvlezll88viifL0xDr8Ej7ouAHWHr_aO3di21kf9kiJETh7BxYUx4E1eRFBTjxvVImleo2ckPW22_IVBO2DOXE8emBlBzUxBcSsvRzpKPdgCnHx-QCkjwwQB7dz6IRq1zI-XDSO8VYcWFwex8q6jUVrqXu4oMXkCfZwKA1sZv-ejyKngzQ44a7EiVXJBpLFV4YERvOwQoOqSWL-Qv7ay2-q613N"
+  },
+  "signature": "MGUCMQDhi500RP3wVGByFFVjw7A6HoQGNzSKGkFN0AMneHco3bW5h9igFQeYG50xjupowKYCMG3rYsakt4Ac2vZRcEsqBqwXh4nelC2PcGBtALO73IeyElSvMuKRXDGPzHY3ukSyIw=="
+}
