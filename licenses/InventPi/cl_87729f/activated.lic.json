@@ -1,0 +1,43 @@
+{
+  "license": {
+    "version": "1.0",
+    "licenseId": "64c41650-2d62-4000-9106-17fb30c0f981",
+    "license_id": 11,
+    "licensedTo": "Hindamata Society",
+    "client_code": "CL-2025-001",
+    "contactEmail": "HindamataSociety@gmail.com",
+    "licenseType": "Node-Locked",
+    "app_name": "InventPi",
+    "status": "Active",
+    "subscription_tier": "Professional",
+    "trial_period": "0",
+    "rollout_phase": "Production",
+    "product": "",
+    "product_version": "2.0.0",
+    "active_phases": [
+      "1",
+      "2",
+      "3"
+    ],
+    "features": [
+      "User Management",
+      "Inventory",
+      "Billing",
+      "Settings",
+      "Reports",
+      "Data Export"
+    ],
+    "issued": "2026-01-31",
+    "maintenanceExpiry": "",
+    "expiry": "2026-03-31",
+    "grace_period": "5",
+    "renewed_on": "",
+    "renewed_count": 0,
+    "license_server_url": "https://raw.githubusercontent.com/planetbits/blossom/refs/heads/main/licenses",
+    "maxUsers": 2,
+    "maxDevices": 1,
+    "hwid_enc": "OTwFXYt9xM0eXXB5670NXeJ2pRfzBasjo9KmSV765nzMDq7urmOCiz_kSSC-4pHKwOOSej7ohMN0I8GCdkQONQxY2T0fHJ_ZoyGJgO96GDvuyTQF9FE0lGMk5isV2TeeN6JDEmNuoy6zMQh7gy6dfjHCb6ATZ1covv7B0bPpW00OtfyBPwjuvqLfjWkppX65av21_BwGH4J76EsqOmldjPauMDs=",
+    "protected_enc": "1WLKsY2rIdTcgDxCtLadM1B0ApO2xj-YuBCH14kHAFjBJy8ir9z_3NQFf-6YHka5CzkYMuFsFmVMJIyL6F69f2UpQ015A-MInf1ZZH5Xcm02ceOUahqu8pDgiidUVPyjd_JXHzh3IV_SsCDhtysDhAbu8Zwi6J9_WEzla4001Exz9TLe62w3NzZA22idCiiclzgjN324ff1MBd2qZuqJXM-hvMqER-uQL0_TMgKynibgGQvR8oAwKcRawkS4bXIlumdXlJjK6EZH6exZ08GPbbCwx_YwkM1F1Fd5LOcgZW45USWnsS4jmbnD-_IH_aKBaf4RhGLf8vDNqB2jR_Zf6QZg1ljSXFCTw3Rsy8O4sC5qQO_bRQSp9zp8lI4ZKoUd6eb0L9tIfSU8PKVG_ajCidWHZjCwCPrDvZ03Ou7esJ0WvnTTmw7kP-KFwAUNXhIietLchHXpoloTSxvSqQs4UDAFzDKvZB05sutty7l6iYysLbbdkainb4erKJdNJD40Y6OgW-e1AmV2VTf0k7pJD3XSJE18wYOXUWLCYKc1JeE79x-26-KFGB7KTMpPQLdidWH5xx_Jtke2MVppUITRtE4Rg0LL9aiPU6WLOPmhasFjzZy-5bgqg0LdjLcDiwCv4-OXR_0untE5rrXV53yOaKL4Tvdaw66jQKIwHNo6NcbOgkEvy7Mvrwk="
+  },
+  "signature": "MGUCMEnZoz3jvARJUq/aWSCp5lzds01M/3gbuC0+KXD5gq0hqESOoPxLVFKmyJNR5ledzQIxAPectfZkWqI2/Ws+ff1zjDt+8lNhVHS50/ItZwIyCRzmFlR+XPDpvswhR5sd4VatpA=="
+}
